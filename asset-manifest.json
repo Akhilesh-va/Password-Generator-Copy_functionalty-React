@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Password-Generator-Copy_functionalty-React/static/css/main.5ca5bf79.css",
+    "main.js": "/Password-Generator-Copy_functionalty-React/static/js/main.cd7a2a0b.js",
+    "index.html": "/Password-Generator-Copy_functionalty-React/index.html",
+    "main.5ca5bf79.css.map": "/Password-Generator-Copy_functionalty-React/static/css/main.5ca5bf79.css.map",
+    "main.cd7a2a0b.js.map": "/Password-Generator-Copy_functionalty-React/static/js/main.cd7a2a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca5bf79.css",
+    "static/js/main.cd7a2a0b.js"
+  ]
+}
